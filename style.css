@@ -9,7 +9,7 @@
   text-align: center center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 12px;
+  font-size: 30px;
   opacity: 100%;
 }
 
@@ -49,18 +49,18 @@ table, th, td {
 .th{
   color: pink;
   background-color: #ffbfff20;
-  font-size: 18px;
+  font-size: 30px;
 }
 .td{
   color: white;
   background-color: #00000000;
   text-align: center;
-  font-size: 12px;
+  font-size: 25px;
 }
 
 .tdc{
   color: white;
   background-color: #ffc80030;
   text-align: center;
-  font-size: 12px;
+  font-size: 25px;
 }
